@@ -11,7 +11,9 @@ For example: if there is closed system of 6 friends, whatever we initialize for 
 - We can assume that characteristics of people can change slowly in time, with some constant speed that is in range from 0 to 1 (0 - change is not possibel, 1 - after one iteration everyone will be at average)
 - Also we can assume that people that are outliers can change relatively faster that those close to average.
 
-<img src="5_average/s1.PNG" alt="Alt Text" width="500" height="412">
+<img src="5_average/s1.png" alt="Alt Text" width="500" height="412">
 
-<img src="5_average/s1.PNG" alt="Alt Text" width="500" height="412">
+- Also with this assamptions we see that avarage varies throughout time, it goes to location where most people are in the beggining
+
+<img src="5_average/s2.png" alt="Alt Text" width="500" height="412">
 
