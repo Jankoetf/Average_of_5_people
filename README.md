@@ -13,7 +13,7 @@ For example: if there is closed system of 6 friends, whatever we initialize for 
 
 <img src="5_average/s1.png" alt="Alt Text" width="500" height="412">
 
-- Also with this assamptions we see that avarage varies throughout time, it goes to location where most people are in the beggining
+- Also with this assumptions we see that avarage varies throughout time, it goes to location where most people have to change relatively fast in the beggining.
 
 <img src="5_average/s2.png" alt="Alt Text" width="500" height="412">
 
